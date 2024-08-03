@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/en/about/</loc>
+    <lastmod>2021-11-06T14:57:28+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/</loc>
+    <lastmod>2021-11-06T14:57:28+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/archives/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/posts/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/series/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/posts/life/</loc>
+  </url>
+</urlset>
